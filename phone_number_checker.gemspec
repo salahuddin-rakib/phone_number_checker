@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Phone Number Check and Fetch."
   spec.description   = "Check valid phone number and fetch valid phone number."
-  # spec.homepage      = "Put your gem's website or public repo URL here."
+  spec.homepage      = "https://rubygems.org/gems/phone_number_checker"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.7.0"
 
